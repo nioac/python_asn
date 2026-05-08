@@ -1,6 +1,7 @@
 # %%
 
 input()
+
 print("""
       Aqui começa uma historia...""")
 

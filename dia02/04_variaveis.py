@@ -24,3 +24,6 @@ mensagem = f"""
 
 
 print(mensagem)
+
+# %%
+

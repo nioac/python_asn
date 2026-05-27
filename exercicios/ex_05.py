@@ -51,3 +51,7 @@ for i in range(0,tentativas):
 else:
     print("Suas tentativas acabaram! Nos vemos depois...")
     print(f"O numero era {numero_alvo}")
+
+
+# novas alterações de teste
+
